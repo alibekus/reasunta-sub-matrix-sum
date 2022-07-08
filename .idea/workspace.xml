@@ -81,8 +81,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657289429449</updated>
-      <workItem from="1657289431105" duration="8150000" />
+      <workItem from="1657289431105" duration="8645000" />
     </task>
+    <task id="LOCAL-00001" summary="Reasunta Tech Interview task&#10;&#10;Algorithm to find sum matrix with max sum of initial matrix.">
+      <created>1657297871243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657297871243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
